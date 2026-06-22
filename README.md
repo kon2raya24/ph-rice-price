@@ -20,3 +20,11 @@ npm install ph-rice-price
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'ph-rice-price';
+// See API section for available functions
+```
